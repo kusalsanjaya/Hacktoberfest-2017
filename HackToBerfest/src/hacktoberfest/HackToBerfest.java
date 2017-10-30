@@ -21,6 +21,10 @@ public class HackToBerfest {
         //multiplication
         int multi = x*y;
         System.out.println(multi);
+        //using %
+        int percent = x%y;
+        System.out.println(percent);
+        System.out.println("thank you HackToBerfest");
     }
     
 }
