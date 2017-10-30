@@ -18,7 +18,9 @@ public class HackToBerfest {
         int y = 3;
         int sum = x+y;
         System.out.println(sum);
-        
+        //multiplication
+        int multi = x*y;
+        System.out.println(multi);
     }
     
 }
