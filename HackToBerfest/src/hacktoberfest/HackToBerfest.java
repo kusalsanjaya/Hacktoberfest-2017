@@ -11,11 +11,14 @@ package hacktoberfest;
  */
 public class HackToBerfest {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         System.out.println("hello world");
+        //calculating the sum
+        int x = 4;
+        int y = 3;
+        int sum = x+y;
+        System.out.println(sum);
+        
     }
     
 }
